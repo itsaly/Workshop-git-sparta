@@ -4,11 +4,7 @@ Tempat cahaya selalu benderang
 Cahaya yang berkilauan
 Angkasa yang dihiasi awan
 Tempat udara selalu bersih
-<<<<<<< HEAD
 Tempat angin selalu nikmat
-=======
-Tempat angin selalu nikmats
->>>>>>> 3150a2901daaba387bd5021b641a2f7670212ca0
 Di sana jejak melukis asa
 Ditemani canda tawa
 Apa memang senikmat itu?
